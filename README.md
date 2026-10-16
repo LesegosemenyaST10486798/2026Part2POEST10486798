@@ -13,3 +13,4 @@ Implement user profile management
 Implement event CRUD operations
 Implement race category management
 Implement participant enrolments
+Implement race results management
