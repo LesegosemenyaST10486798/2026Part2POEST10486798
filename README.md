@@ -11,3 +11,4 @@ Implement user login and logout
 Implement role-based authorisation
 Implement user profile management
 Implement event CRUD operations
+Implement race category management
