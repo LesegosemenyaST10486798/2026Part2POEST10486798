@@ -15,3 +15,4 @@ Implement race category management
 Implement participant enrolments
 Implement race results management
 Configure swagger API documentation
+Add authentication and API units tests
