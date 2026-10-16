@@ -1,4 +1,2 @@
-# 2026Part2POEST10486798
-LESEGO SEMENYA
-
 Initialize RaceDay ASP.NET Core Web API
+Configure project dependencies
