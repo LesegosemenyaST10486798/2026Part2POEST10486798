@@ -17,3 +17,4 @@ Implement race results management
 Configure swagger API documentation
 Add authentication and API units tests
 Configure GitHub Actions CI workflow
+Complete README and project documentation
