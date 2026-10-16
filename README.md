@@ -18,3 +18,4 @@ Configure swagger API documentation
 Add authentication and API units tests
 Configure GitHub Actions CI workflow
 Complete README and project documentation
+<img width="1365" height="585" alt="image" src="https://github.com/user-attachments/assets/b322772a-8490-46db-a5dc-9920f8e6d742" />
