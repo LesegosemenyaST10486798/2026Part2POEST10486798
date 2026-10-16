@@ -8,3 +8,4 @@ Add authentication request DTOs
 Implement user registration
 Implement secure password hashing
 Implement user login and logout
+Implement role-based authorisation
