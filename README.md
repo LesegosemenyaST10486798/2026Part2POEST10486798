@@ -7,3 +7,4 @@ Create initial database migration
 Add authentication request DTOs
 Implement user registration
 Implement secure password hashing
+Implement user login and logout
