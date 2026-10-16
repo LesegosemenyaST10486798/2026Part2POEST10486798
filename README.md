@@ -5,3 +5,4 @@ Configure Entity Framework Core DbContext
 Add SQL Server database connection
 Create initial database migration
 Add authentication request DTOs
+Implement user registration
